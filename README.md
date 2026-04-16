@@ -34,7 +34,9 @@ These prompts work with Claude, ChatGPT, Gemini, or whichever AI you prefer. The
 
 | Week | Title | Prompts |
 |------|-------|---------|
+| 1 | This Book Is a Prompt | [Decision Pattern Finder](week-01/decision-pattern-finder.md) |
 | 2 | Values Are Load-Bearing Walls | [Constructive Contrarian](week-02/constructive-contrarian.md) · [Values Discovery](week-02/values-discovery.md) |
+| 3 | What You Say No To Defines You | [No Audit](week-03/no-audit.md) · [Post-Mortem](week-03/post-mortem.md) |
 
 *New prompts are added with each episode of the [Patterns x Principles Substack series](https://joergrheinboldt.substack.com).*
 
