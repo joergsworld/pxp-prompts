@@ -38,6 +38,7 @@ These prompts work with Claude, ChatGPT, Gemini, or whichever AI you prefer. The
 | 2 | Values Are Load-Bearing Walls | [Constructive Contrarian](week-02/constructive-contrarian.md) · [Values Discovery](week-02/values-discovery.md) |
 | 3 | The Art of No | [The No Audit](week-03/no-audit.md) · [The Post-Mortem](week-03/post-mortem.md) |
 | 4 | The Purple Dots on the Org Chart | [Build Your First Perspective](week-04/build-your-first-perspective.md) |
+| 5 | Moving Before Knowing | [The First Small Move](week-05/first-small-move.md) · [The Momentum Audit](week-05/momentum-audit.md) |
 
 *New prompts are added with each episode of the [Patterns x Principles Substack series](https://joergrheinboldt.substack.com).*
 
