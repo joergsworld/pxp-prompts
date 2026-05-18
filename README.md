@@ -40,6 +40,7 @@ These prompts work with Claude, ChatGPT, Gemini, or whichever AI you prefer. The
 | 4 | The Purple Dots on the Org Chart | [Build Your First Perspective](week-04/build-your-first-perspective.md) |
 | 5 | Moving Before Knowing | [The First Small Move](week-05/first-small-move.md) · [The Momentum Audit](week-05/momentum-audit.md) |
 | 6 | What a Team Becomes | [The Team Audit](week-06/team-audit.md) |
+| 7 | Reading the World You're Building | [The Denial Check](week-07/the-denial-check.md) · [The Reality Audit](week-07/the-reality-audit.md) · [The Pre-mortem at Three Horizons](week-07/the-pre-mortem-at-three-horizons.md) |
 
 *New prompts are added with each episode of the [Patterns x Principles Substack series](https://joergrheinboldt.substack.com).*
 
