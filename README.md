@@ -41,6 +41,7 @@ These prompts work with Claude, ChatGPT, Gemini, or whichever AI you prefer. The
 | 5 | Moving Before Knowing | [The First Small Move](week-05/first-small-move.md) · [The Momentum Audit](week-05/momentum-audit.md) |
 | 6 | What a Team Becomes | [The Team Audit](week-06/team-audit.md) |
 | 7 | Reading the World You're Building | [The Denial Check](week-07/the-denial-check.md) · [The Reality Audit](week-07/the-reality-audit.md) · [The Pre-mortem at Three Horizons](week-07/the-pre-mortem-at-three-horizons.md) |
+| 8 | Experience, Expertise, and Intuition | [The Seen-This-Before Check](week-08/the-seen-this-before-check.md) · [The Knowns Audit](week-08/the-knowns-audit.md) |
 
 *New prompts are added with each episode of the [Patterns x Principles Substack series](https://joergrheinboldt.substack.com).*
 
